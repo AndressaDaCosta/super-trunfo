@@ -6,4 +6,4 @@ link Github:
 
 link Codepen: 
 
-<img src="">
+<img src="https://github.com/AndressaDaCosta/super-trunfo/blob/main/img/Captura%20de%20Tela%202022-04-01%20a%CC%80s%2019.12.20.png?raw=true">
