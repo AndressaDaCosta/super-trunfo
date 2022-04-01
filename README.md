@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante a #imersãoDEV da Alura!
 
-link Github: 
+link Github: https://andressadacosta.github.io/super-trunfo/
 
 link Codepen: https://codepen.io/andressadacosta/full/GRyoBbJ
 
